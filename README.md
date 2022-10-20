@@ -1,6 +1,6 @@
-### 📦 **Travel App**
+### 📦 **crypto App**
 
-Best Application For Travel.
+A realtime update price from cryptomarket
 
 ### 🎁 **Fiture**
 - App Name
@@ -33,5 +33,9 @@ dev_dependencies:
 2. Run `flutter pub get` In Terminal
 3. Run the project In Web or Emulator
 
-### 📷 **Demo**
+### 📷 **De
+
+https://user-images.githubusercontent.com/68719199/196990494-2d125606-e0e5-4893-8ec9-99474fcd21c6.mov
+
+mo**
 
