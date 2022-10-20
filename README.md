@@ -5,7 +5,8 @@ A realtime update price from cryptomarket
 ### 🎁 **Fiture**
 - App Name
 - Simple UI & Clean Code
-- Realtime Crypto Market Price
+- Example WebSocket
+- Realtime Crypto Market Price (Using WS)
 
 ### 📄 **Page Include**
 - Home Page
